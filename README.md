@@ -1,3 +1,4 @@
+<img src="Launcher.svg" alt="Launcher" width="120">
 # Launcher 
 
 ## Extra Repository ##
